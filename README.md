@@ -85,11 +85,13 @@ AWS EKS를 활용한 3-Tier 아키텍처 기반 웹 서비스를 구축하여, �
 </table>
 
 ## 🧱아키텍처
-![architecture.jpg](img/architecture.jpg)
+![123124](https://github.com/user-attachments/assets/77185cdd-7618-4153-b685-482d6feb7a85)
+
 
 ## 🗂PAGE
-![1.jpg](img/1.png)
-![2.jpg](img/2.png)
-![3.jpg](img/3.png)
-![4.jpg](img/4.png)
+![1](https://github.com/user-attachments/assets/0ad5b3e2-a97c-44bc-9bb6-4b7a1ab3d926)
+![2](https://github.com/user-attachments/assets/d042b95f-fe2d-46f1-bd17-cb3e4b9b33d9)
+![3](https://github.com/user-attachments/assets/a738eac6-abb5-497f-9d96-563d90990966)
+![4](https://github.com/user-attachments/assets/4a80e111-ee44-4360-bc62-5c0705d53bbc)
+
 
